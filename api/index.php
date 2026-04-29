@@ -54,8 +54,8 @@
 
 <nav>
   <a href="">Accueil</a>
-  <a href="">À propos</a>
-  <a href="">Projets</a>
+  <a href="atelire2.php">À propos</a>
+  <a href="atelier3.php">atelier3</a>
   <a href="">Contact</a>
 </nav>
 
